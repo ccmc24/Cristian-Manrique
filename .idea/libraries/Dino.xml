@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Dino">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dino_runner/assets/Dino.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
